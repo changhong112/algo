@@ -37,4 +37,4 @@ function binarySearch(a, n, value) { // 要求a为有序，可重复
 const arr = [1, 3, 4, 5, 6, 8, 8, 8, 8,11, 18]; // 找出最后一个值给定值为8的元素的索引
 const idx = binarySearch(arr, arr.length, 8);
 console.log('idx', idx);
-
+console.log('hello...')
